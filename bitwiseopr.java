@@ -1,5 +1,6 @@
 package com.tutorial;
 
+//mengenal bitwise operator
 import javax.swing.*;
 import java.util.Scanner;
 
