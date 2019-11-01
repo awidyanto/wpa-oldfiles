@@ -1,5 +1,5 @@
 package com.tutorial;
-
+// kalkulator kasir sederhana
 import java.util.Scanner;
 public class Kasir {
     public static void main(String[] args){
