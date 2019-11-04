@@ -1,11 +1,11 @@
 package com.tutorial;
-
+// mengenal tipe array
 import java.util.Arrays;
 
 public class array {
     public static void main(String[] args){
 
-        int[] arrayinteger = {1,2,3,5,4}; // assignment
+        int[] arrayinteger = {1,2,3,5,4}; // mass assignment
         arrayinteger[4] = 25;
         System.out.println(arrayinteger[0]);
         System.out.println(arrayinteger[2]);
